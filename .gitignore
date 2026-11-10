@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.venv/
+.env
+.DS_Store
+*.log
+ISA/isa-app/
+LOUF-AI/
+muhura_sod3/
+LOUF-AI.zip
